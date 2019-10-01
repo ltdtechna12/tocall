@@ -115,7 +115,8 @@ class prankcall{
 	}
 }
 echo " \n";
-echo "--------|      CALL ME        |-----------
+echo "
+------------|      CALL ME        |-------------
 |   Athor     = Putu Kresna Putra              |
 |   Update    = 23-Januari 2019                |
 |   GitHub    = https://github.com/ltdtechna12 |

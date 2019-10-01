@@ -1,11 +1,11 @@
 -----------------------------------------------|
 ------------------------------------------------
-|      Athor     = Putu Kresna Putra           |
-|      Update    = 07-January-2019             |
-|      TooL Spam = Telpon    		           |
-|      GitHub    = -			               |
-|      Youtube   = -                           |
-|      Info      = jangan disalah gunakan      |
+|   Athor     = Putu Kresna Putra              |
+|   Update    = 23-Januari 2019                |
+|   TooL Spam = Telpon    		               |
+|   GitHub    = https://github.com/ltdtechna12 |		               
+|   Youtube   = -                              |
+|   Info      = jangan disalah gunakan         |
 ------------------------------------------------
 
 <?php
@@ -115,12 +115,12 @@ class prankcall{
 	}
 }
 echo " \n";
-echo "------------------------------------------------|             SPAM TELPON UNLIMETED            |------------------------------------------------
-|      Athor     = Putu Kresna Putra           |
-|      Update    = 07-juni-2014                |
-|      GitHub    = -                           |
-|      Youtube   = -                           |
-|      Info      = jangan disalah gunakan      |
+echo "--------|      CALL ME        |-----------
+|   Athor     = Putu Kresna Putra              |
+|   Update    = 23-Januari 2019                |
+|   GitHub    = https://github.com/ltdtechna12 |
+|   Youtube   = -                              |
+|   Info      = jangan disalah gunakan         |
 ------------------------------------------------\n";
 echo " \n";
 echo " \n";
@@ -132,7 +132,7 @@ echo "
    |  |   | |  | || |     / / | || |    | |
    |  |   | |__| || |___ | (__| || |___ | |____
    |__|   |______||_____| \___,_||_____||______|
-                                    v.2.3\n";
+                                    v.11.4\n";
 echo " \n";
 sleep ('0.4');
 echo "====> Masukan No Target = ";

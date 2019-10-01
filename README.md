@@ -1,5 +1,7 @@
 # tocall
 
+just for termux 
+
 <li>$ pkg update && pkg upgrade
 <li>$ pkg install php
 <li>$ pkg install git
